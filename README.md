@@ -1,14 +1,23 @@
-Configurar o banco no arquivo .env
+Configurar o banco no arquivo .env <br>
 
-Adicionar access_key do github no arquivo .env
-GIT_TOKEN_ACCESS
+Adicionar access_key do github no arquivo .env <br>
 
-Comandos para instalar a aplicação
-php artisan migrate
-php artisan db:seed
-php artisan command:getuserongithub
+GIT_TOKEN_ACCESS <br>
 
-email e senha de acesso
-email: admin@admin.com
-senha: admin
+
+Comandos para instalar a aplicação <br>
+
+php artisan migrate <br>
+
+php artisan db:seed <br>
+
+php artisan command:getuserongithub <br>
+
+
+email e senha de acesso <br>
+
+email: admin@admin.com <br>
+
+senha: admin <br>
+
 
