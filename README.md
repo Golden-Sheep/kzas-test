@@ -7,6 +7,8 @@ GIT_TOKEN_ACCESS <br>
 
 Comandos para instalar a aplicação <br>
 
+composer install
+
 php artisan migrate <br>
 
 php artisan db:seed <br>
