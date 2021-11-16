@@ -62,10 +62,7 @@
         ],
         "post-install-cmd": [
             "php artisan clear-compiled",
-            "chmod -R 777 public/",
-            "php artisan migrate",
-            "php artisan db:seed",
-            "php artisan command:getuserongithub"
+            "chmod -R 777 public/"
         ]
     }
 }
